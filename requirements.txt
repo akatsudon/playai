@@ -1,16 +1,16 @@
-# -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
-# torch_nightly
-# fastai
-# starlette
-# uvicorn
-# python-multipart
-# aiofiles
-# aiohttp
-
-numpy==1.16.0rc1
+-f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
+torch_nightly
 fastai
 starlette
 uvicorn
 python-multipart
 aiofiles
 aiohttp
+
+# numpy==1.16.0rc1
+# fastai
+# starlette
+# uvicorn
+# python-multipart
+# aiofiles
+# aiohttp
